@@ -1,1 +1,1 @@
-install.packages("pls", "lattice", "ptw", "scales")
+install.packages(c("pls", "lattice", "ptw", "scales"))
