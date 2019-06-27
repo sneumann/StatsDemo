@@ -1,1 +1,4 @@
-install.packages(c("pls", "lattice", "ptw", "scales"))
+install.packages("devtools")
+library(devtools)
+install_github("rwehrens/StatsDemo")
+
